@@ -115,11 +115,11 @@ The Azure Lab Environment used for this Project consists of the following machin
 | Name              	| IP Address     	| Operating System          	| Purpose                                       	|
 |-------------------	|----------------	|---------------------------	|-----------------------------------------------	|
 | HYPER-V Host Manager 	| 192.168.1.0/24 	| Windows 10                	| Azure Hyper-V Machine hosting Virtual Network 	|
-| **Kali Linux**        	| 192.168.1.90   	| Debian Kali 5.4.0         	| Red Team Penetration (Attack) Testing Machine    	|
-| _ELK Stack_         	| 192.168.1.100  	| Ubuntu 18.04.1 LTS        	| ELK Stack (Elastisearch, Logstash and Kibana)    	|
+| Kali Linux        	| 192.168.1.90   	| Debian Kali 5.4.0         	| Red Team Penetration (Attack) Testing Machine    	|
+| ELK Stack         	| 192.168.1.100  	| Ubuntu 18.04.1 LTS        	| ELK Stack (Elastisearch, Logstash and Kibana)    	|
 | Capstone          	| 192.168.1.105  	| Ubuntu 18.04.1 LTS         	| Vulnerable Web Server                         	|
-| **Target 1**          	| 192.168.1.110  	| Debian GNU/Linux 3.2 - 4.9 	| WordPress Host                                	|
-| **Target 2**          	| 192.168.1.115  	| Debian GNU/Linux 3.2 - 4.9 	| WordPress Host                                	|
+| Target 1          	| 192.168.1.110  	| Debian GNU/Linux 3.2 - 4.9 	| WordPress Host                                	|
+| Target 2          	| 192.168.1.115  	| Debian GNU/Linux 3.2 - 4.9 	| WordPress Host                                	|
 
 ### Final Group Project Submission
 
