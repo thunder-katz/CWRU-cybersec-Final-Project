@@ -121,9 +121,11 @@ The Azure Lab Environment used for this Project consists of the following machin
 | Target 1          	| 192.168.1.110  	| Debian GNU/Linux 3.2 - 4.9 	| WordPress Host                                	|
 | Target 2          	| 192.168.1.115  	| Debian GNU/Linux 3.2 - 4.9 	| WordPress Host                                	|
 
-### Final Group Project Submission
+### Final Project Submission
 
 [Final Project - Group Presentation](https://github.com/thunder-katz/CWRU-cybersec-Final-Project/blob/main/Final%20Project%20Presentation%20-%20Group.pdf)  
+
+[Final Project - Solo Section](https://github.com/thunder-katz/CWRU-cybersec-Final-Project/blob/main/Network%20Presentation%20-%20Solo.pdf)
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
