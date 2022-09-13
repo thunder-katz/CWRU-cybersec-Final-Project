@@ -90,28 +90,9 @@ This unit covers portions of the following domains on the Security+ exam:
 
 For more information about these Security+ domains, refer to the following resource: [Security+ Exam Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf?sfvrsn=8c5889ff_2)
 
+## Final Project
 
-### Additional Reading and Resources
-
-<details> 
-<summary> Click here to view additional reading materials and resources. </summary>
-</br>
-
-These resources are provided as optional, recommended resources to supplement the concepts covered in this unit.
-
-- [SANS Pentesting Cheatsheet](https://www.sans.org/blog/sans-poster-building-a-better-pen-tester-pdf-download/)
-
-
-</details>
-
----
-
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.    
-
-## Week 24 Homework Solution: Final Project
-
-Refer to the following solution files for the homework worksheets: 
+Refer to the following solution files: 
 
 ### Offensive Security Summary
 
